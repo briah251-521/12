@@ -7,4 +7,4 @@ function Student(firstName, lastName, age, courses) {
 
 let student = new Student("Anatoly", "Petrovych", 19, "Math, History, Anatomy" )
 
-console.log(student)
+console.log(studen)
